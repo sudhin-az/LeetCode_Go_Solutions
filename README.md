@@ -11,4 +11,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [2819-remove-trailing-zeros-from-a-string](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2819-remove-trailing-zeros-from-a-string) |
 <!---LeetCode Topics End-->
