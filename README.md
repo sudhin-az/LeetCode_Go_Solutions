@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2819-remove-trailing-zeros-from-a-string) |
+| [3312-number-of-changing-keys](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/3312-number-of-changing-keys) |
 ## Math
 |  |
 | ------- |
