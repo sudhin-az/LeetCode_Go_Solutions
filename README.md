@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2561-number-of-distinct-averages](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2561-number-of-distinct-averages) |
 | [2737-row-with-maximum-ones](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2737-row-with-maximum-ones) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [2836-neither-minimum-nor-maximum](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2836-neither-minimum-nor-maximum) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2881-split-strings-by-separator](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2881-split-strings-by-separator) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0941-sort-array-by-parity) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2561-number-of-distinct-averages](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2561-number-of-distinct-averages) |
+| [2836-neither-minimum-nor-maximum](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2836-neither-minimum-nor-maximum) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Matrix
 |  |
