@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0001-two-sum) |
+| [0941-sort-array-by-parity](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0941-sort-array-by-parity) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -40,12 +41,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0941-sort-array-by-parity](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0941-sort-array-by-parity) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2561-number-of-distinct-averages](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2561-number-of-distinct-averages) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Sorting
 |  |
 | ------- |
+| [0941-sort-array-by-parity](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0941-sort-array-by-parity) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2561-number-of-distinct-averages](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2561-number-of-distinct-averages) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
