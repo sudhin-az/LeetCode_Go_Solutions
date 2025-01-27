@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0001-two-sum) |
+| [0682-baseball-game](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0682-baseball-game) |
 | [0941-sort-array-by-parity](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
@@ -77,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
