@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2551-apply-operations-to-an-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2561-number-of-distinct-averages) |
 | [2737-row-with-maximum-ones](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2737-row-with-maximum-ones) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2551-apply-operations-to-an-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2561-number-of-distinct-averages) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Sorting
@@ -86,4 +88,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0682-baseball-game) |
+| [2551-apply-operations-to-an-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2551-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
