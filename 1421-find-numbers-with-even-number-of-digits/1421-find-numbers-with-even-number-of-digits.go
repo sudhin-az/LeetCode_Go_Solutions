@@ -1,14 +1,12 @@
 func findNumbers(nums []int) int {
-  count :=0
-  for _, num := range nums {
-    digitcount :=0
-    for num >0 {
-        digitcount ++
-        num = num/10
+    count := 0
+
+    for i:=0; i<len(nums); i++ {
+        dig := strconv.Itoa(nums[i])
+        di := len(dig)
+        if di % 2 == 0 {
+            count ++
+        }
     }
-    if digitcount % 2 == 0 {
-        count ++
-    }
-  }
-  return count
+    return count
 }
