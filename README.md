@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2551-apply-operations-to-an-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2561-number-of-distinct-averages) |
+| [2727-number-of-senior-citizens](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2727-number-of-senior-citizens) |
 | [2737-row-with-maximum-ones](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2737-row-with-maximum-ones) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2836-neither-minimum-nor-maximum](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2836-neither-minimum-nor-maximum) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1899-count-items-matching-a-rule) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2727-number-of-senior-citizens](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2727-number-of-senior-citizens) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2881-split-strings-by-separator](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2881-split-strings-by-separator) |
 | [3312-number-of-changing-keys](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/3312-number-of-changing-keys) |
