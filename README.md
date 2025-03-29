@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1899-count-items-matching-a-rule](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1899-count-items-matching-a-rule) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1210-mean-of-array-after-removing-some-elements) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2561-number-of-distinct-averages](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2561-number-of-distinct-averages) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2566-number-of-unequal-triplets-in-array) |
