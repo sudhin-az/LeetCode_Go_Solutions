@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0242-valid-anagram) |
 | [2442-number-of-arithmetic-triplets](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2561-number-of-distinct-averages](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2561-number-of-distinct-averages) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0242-valid-anagram) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1899-count-items-matching-a-rule](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1899-count-items-matching-a-rule) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0242-valid-anagram) |
 | [0941-sort-array-by-parity](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1210-mean-of-array-after-removing-some-elements) |
