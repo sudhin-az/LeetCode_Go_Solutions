@@ -134,4 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0866-rectangle-overlap](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0866-rectangle-overlap) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
