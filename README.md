@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0133-clone-graph) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -155,4 +156,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0133-clone-graph) |
+## Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
