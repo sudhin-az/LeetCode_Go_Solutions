@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0001-two-sum) |
+| [0200-number-of-islands](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0200-number-of-islands) |
 | [0682-baseball-game](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0941-sort-array-by-parity) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0200-number-of-islands) |
 | [0861-flipping-an-image](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0861-flipping-an-image) |
 | [2737-row-with-maximum-ones](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2737-row-with-maximum-ones) |
 ## Greedy
@@ -147,11 +149,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0200-number-of-islands) |
 ## Graph
 |  |
 | ------- |
@@ -168,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
