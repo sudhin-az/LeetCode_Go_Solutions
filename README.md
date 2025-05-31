@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0268-missing-number) |
 | [0861-flipping-an-image](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0861-flipping-an-image) |
 ## Geometry
@@ -201,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
