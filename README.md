@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0268-missing-number) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2442-number-of-arithmetic-triplets](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2561-number-of-distinct-averages](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2561-number-of-distinct-averages) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0242-valid-anagram) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1899-count-items-matching-a-rule](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1899-count-items-matching-a-rule) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
