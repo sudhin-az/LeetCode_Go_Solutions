@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2442-number-of-arithmetic-triplets) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2551-apply-operations-to-an-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2561-number-of-distinct-averages) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0268-missing-number) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2442-number-of-arithmetic-triplets](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2442-number-of-arithmetic-triplets) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2561-number-of-distinct-averages) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2634-minimum-common-value](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2634-minimum-common-value) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2442-number-of-arithmetic-triplets) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2551-apply-operations-to-an-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2561-number-of-distinct-averages) |
 | [2634-minimum-common-value](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2634-minimum-common-value) |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2561-number-of-distinct-averages) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2836-neither-minimum-nor-maximum) |
