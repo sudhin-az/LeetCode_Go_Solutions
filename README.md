@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0268-missing-number) |
 | [0682-baseball-game](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0861-flipping-an-image) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0268-missing-number) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0268-missing-number) |
 | [0941-sort-array-by-parity](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0941-sort-array-by-parity) |
