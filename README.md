@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1656-count-good-triplets](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1656-count-good-triplets) |
 | [1899-count-items-matching-a-rule](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1899-count-items-matching-a-rule) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2181-smallest-index-with-equal-value](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2181-smallest-index-with-equal-value) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1656-count-good-triplets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Counting
