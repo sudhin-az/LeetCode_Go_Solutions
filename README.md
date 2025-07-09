@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2561-number-of-distinct-averages](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2561-number-of-distinct-averages) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2634-minimum-common-value](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2634-minimum-common-value) |
+| [2694-find-the-maximum-divisibility-score](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2694-find-the-maximum-divisibility-score) |
 | [2727-number-of-senior-citizens](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2727-number-of-senior-citizens) |
 | [2737-row-with-maximum-ones](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2737-row-with-maximum-ones) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
