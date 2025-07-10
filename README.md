@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1656-count-good-triplets](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1656-count-good-triplets) |
 | [1899-count-items-matching-a-rule](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1899-count-items-matching-a-rule) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1210-mean-of-array-after-removing-some-elements) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -221,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0190-reverse-bits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
