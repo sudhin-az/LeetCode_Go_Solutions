@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1319-unique-number-of-occurrences](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0268-missing-number) |
 | [1319-unique-number-of-occurrences](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1319-unique-number-of-occurrences) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2442-number-of-arithmetic-triplets](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1510-find-lucky-integer-in-an-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Stack
 |  |
