@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1656-count-good-triplets](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1656-count-good-triplets) |
+| [1791-richest-customer-wealth](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1791-richest-customer-wealth) |
 | [1899-count-items-matching-a-rule](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1899-count-items-matching-a-rule) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2181-smallest-index-with-equal-value](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2181-smallest-index-with-equal-value) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0200-number-of-islands) |
 | [0861-flipping-an-image](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0898-transpose-matrix) |
+| [1791-richest-customer-wealth](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1791-richest-customer-wealth) |
 | [2737-row-with-maximum-ones](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2737-row-with-maximum-ones) |
 ## Greedy
 |  |
