@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2442-number-of-arithmetic-triplets) |
+| [2454-largest-local-values-in-a-matrix](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2551-apply-operations-to-an-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2561-number-of-distinct-averages) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0898-transpose-matrix) |
 | [1791-richest-customer-wealth](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1791-richest-customer-wealth) |
+| [2454-largest-local-values-in-a-matrix](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2737-row-with-maximum-ones](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2737-row-with-maximum-ones) |
 ## Greedy
 |  |
