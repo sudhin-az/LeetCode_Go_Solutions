@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0898-transpose-matrix) |
 | [0941-sort-array-by-parity](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0958-sort-array-by-parity-ii) |
+| [1168-duplicate-zeros](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1168-duplicate-zeros) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1319-unique-number-of-occurrences](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1319-unique-number-of-occurrences) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0958-sort-array-by-parity-ii) |
+| [1168-duplicate-zeros](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1168-duplicate-zeros) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2442-number-of-arithmetic-triplets) |
