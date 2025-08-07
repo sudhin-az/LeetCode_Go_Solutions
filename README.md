@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1656-count-good-triplets](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1656-count-good-triplets) |
 | [1791-richest-customer-wealth](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1791-richest-customer-wealth) |
+| [1833-find-the-highest-altitude](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1833-find-the-highest-altitude) |
 | [1899-count-items-matching-a-rule](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1899-count-items-matching-a-rule) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2181-smallest-index-with-equal-value](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2181-smallest-index-with-equal-value) |
@@ -253,4 +254,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1603-running-sum-of-1d-array) |
+| [1833-find-the-highest-altitude](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
