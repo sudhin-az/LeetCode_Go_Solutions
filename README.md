@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2238-a-number-after-a-double-reversal](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2238-a-number-after-a-double-reversal) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2491-smallest-even-multiple](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2491-smallest-even-multiple) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -261,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
