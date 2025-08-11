@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1833-find-the-highest-altitude) |
 | [1899-count-items-matching-a-rule](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1899-count-items-matching-a-rule) |
+| [2048-build-array-from-permutation](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2048-build-array-from-permutation) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2181-smallest-index-with-equal-value](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2181-smallest-index-with-equal-value) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0898-transpose-matrix) |
+| [2048-build-array-from-permutation](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2048-build-array-from-permutation) |
 | [2551-apply-operations-to-an-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
