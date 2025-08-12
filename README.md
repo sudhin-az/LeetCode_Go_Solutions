@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0200-number-of-islands) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0141-linked-list-cycle) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0861-flipping-an-image](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0861-flipping-an-image) |
