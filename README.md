@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2836-neither-minimum-nor-maximum](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2836-neither-minimum-nor-maximum) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2881-split-strings-by-separator](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2881-split-strings-by-separator) |
+| [3194-find-words-containing-character](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/3194-find-words-containing-character) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2727-number-of-senior-citizens) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2881-split-strings-by-separator](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2881-split-strings-by-separator) |
+| [3194-find-words-containing-character](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/3194-find-words-containing-character) |
 | [3312-number-of-changing-keys](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/3312-number-of-changing-keys) |
 ## Math
 |  |
