@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3778-transform-array-by-parity](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/3778-transform-array-by-parity) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2491-smallest-even-multiple](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2491-smallest-even-multiple) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/3367-find-the-sum-of-encrypted-integers) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
