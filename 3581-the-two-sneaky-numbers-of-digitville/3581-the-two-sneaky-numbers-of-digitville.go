@@ -1,12 +1,13 @@
 func getSneakyNumbers(nums []int) []int {
-    nestedMap := make(map[int]int)
-    var res []int
-
-    for _, v := range nums{
-        nestedMap[v]++
-        if nestedMap[v] > 1 {
-            res = append(res, v)
+    ans := []int{}
+    for i:=0; i<len(nums)-1; i++  {
+        for j:=i+1; j<len(nums); j++ {
+            fmt.Println(nums[i] == nums[j])
+            fmt.Println(nums[i], nums[j])
+            if nums[i] == nums[j] {
+                ans = append(ans, nums[i])
+            }
         }
     }
-    return res
+    return ans
 }
