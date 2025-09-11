@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0268-missing-number) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0268-missing-number) |
 | [0861-flipping-an-image](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0861-flipping-an-image) |
