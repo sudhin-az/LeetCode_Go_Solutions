@@ -1,21 +1,18 @@
 func largestLocal(grid [][]int) [][]int {
     n := len(grid)
-    result := [][]int{}
-    for i:=0; i<n-2; i++ {
-        row := []int{}
-        for j:=0; j<n-2; j++ {
-            max := grid[i][j]
+    res := make([][]int, n-2)
+    for i:= range res {
+        res[i] = make([]int, n - 2)
+    }
 
-            for x:=i; x<=i+2; x++ {
-                for y:=j; y<=j+2; y++ {
-                    if grid[x][y] > max {
-                        max = grid[x][y]
-                    }
+    for i:=0; i<n-2; i++ {
+        for j:=0; j<n-2; j++ {
+            for x:=0; x<3; x++ {
+                for y:=0; y<3; y++ {
+                    res[i][j] = max(res[i][j], grid[i+x][j+y])
                 }
             }
-            row = append(row, max)
         }
-        result = append(result, row)
     }
-    return result
+    return res
 }
