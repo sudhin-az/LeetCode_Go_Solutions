@@ -1,10 +1,10 @@
 func minMovesToSeat(seats []int, students []int) int {
+    sum := 0
     sort.Ints(seats)
     sort.Ints(students)
-    sum := 0
     for i:=0; i<len(seats); i++ {
         sum += abs(seats[i] - students[i])
-        }
+    }
     return sum
 }
 
