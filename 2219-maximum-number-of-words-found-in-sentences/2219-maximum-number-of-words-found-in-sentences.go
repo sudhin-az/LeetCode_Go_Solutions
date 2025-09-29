@@ -1,10 +1,15 @@
 func mostWordsFound(sentences []string) int {
-    max := 0
+    maxWords := 0
     for _, sentence := range sentences {
-        words := len(strings.Fields(sentence))
-        if words > max {
-            max = words
+        count := 1
+        for _, ch := range sentence {
+            if ch == ' ' {
+                count ++
+            }
+        }
+        if count > maxWords {
+            maxWords = count
         }
     }
-    return max
+    return maxWords
 }
