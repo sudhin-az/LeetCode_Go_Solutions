@@ -11,9 +11,9 @@ func numIslands(grid [][]byte) int {
     return count
 }
 
-func dfs(grid [][]byte, i, j int)  {
-    if i < 0 || i>=len(grid) || j<0 || j>=len(grid[i]) || grid[i][j] != '1' {
-        return
+func dfs(grid [][]byte, i, j int) {
+    if i<0 || i>= len(grid) || j<0 || j>=len(grid[i]) || grid[i][j] != '1' {
+        return 
     }
     grid[i][j] = '0'
 
