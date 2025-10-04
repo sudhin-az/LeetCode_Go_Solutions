@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1505-create-target-array-in-the-given-order](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1505-create-target-array-in-the-given-order) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/0898-transpose-matrix) |
+| [1505-create-target-array-in-the-given-order](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2551-apply-operations-to-an-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2551-apply-operations-to-an-array) |
