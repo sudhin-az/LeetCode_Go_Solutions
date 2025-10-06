@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/3194-find-words-containing-character) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
