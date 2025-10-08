@@ -3,7 +3,7 @@ func singleNumber(nums []int) int {
         count := 0
         for j:=0; j<len(nums); j++ {
             if nums[i] == nums[j] {
-               count ++
+                count ++
             }
         }
         if count == 1 {
