@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/3582-find-indices-of-stable-mountains) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3778-transform-array-by-parity](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/3778-transform-array-by-parity) |
 | [3790-fruits-into-baskets-ii](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/1833-find-the-highest-altitude) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/sudhin-az/LeetCode_Go_Solutions/tree/master/3731-sum-of-variable-length-subarrays) |
 ## String Matching
 |  |
 | ------- |
